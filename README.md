@@ -1,1 +1,1 @@
-# capstone20s-COV2QA
+# learning4good 2020fall
