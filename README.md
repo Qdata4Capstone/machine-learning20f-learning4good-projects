@@ -25,5 +25,5 @@
 |10   |COVID19 Severity Prediction Based on Gene Expression      | [Slides/Code/Report](https://github.com/Qdata4Capstone/machine-learning20f-learning4good-projects/tree/master/COVID_GeneExpressionSeverity_CullenTucker_EmilyBuckley_Julia%20Pasco-Anderson_ZackThomas) |
 |11    |PassGAN                 | [Slides/Code/Report](https://github.com/Qdata4Capstone/machine-learning20f-learning4good-projects/tree/master/PassGAN_Bapat-Barmak-Benton-Vijayakumar) |
 |12    |Melanoma Imaging Classification         |[Slides/Code/Report](https://github.com/Qdata4Capstone/machine-learning20f-learning4good-projects/tree/master/DL4MelanomaClassification_Akhtar_Faruqi_Sarnaik)       |
-|13   |Machine Learning for Cryptocurrency Pricing         | [Slides/Code/Report]https://github.com/Qdata4Capstone/machine-learning20f-learning4good-projects/tree/master/ML4Cryptocurrency%20Pricing_NickHayeckNijatKhanbabayev)                |
+|13   |Machine Learning for Cryptocurrency Pricing         | [Slides/Code/Report](https://github.com/Qdata4Capstone/machine-learning20f-learning4good-projects/tree/master/ML4Cryptocurrency%20Pricing_NickHayeckNijatKhanbabayev)                |
 |14   |Drug Mechanism of Action (MoA) Prediction         | [Slides/Code/Report](https://github.com/Qdata4Capstone/machine-learning20f-learning4good-projects/tree/master/Drug%20Mechanisms_Sammy)                 |
